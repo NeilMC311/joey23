@@ -1,0 +1,12 @@
+{
+    "comps": [
+        {
+            "id": "JoeyGlide23",
+            "name": "JoeyGlide 2023",
+            "short": "JoeyGlide",
+            "task": "https://www.soaringspot.com/en_gb/joeyglide-2023-lake-keepit-2022/tasks/club/practice-1-on-2022-12-11",
+            "colour": "#F20B13"
+        }
+    ],
+    "gliders": "https://raw.githubusercontent.com/NeilMC311/joey23/main/gliders.json"
+}

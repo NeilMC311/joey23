@@ -1,11 +1,18 @@
 [
     {
-        "name": "Fred Nurk",
-        "cn": "AS",
-        "glider": "A-15",
-        "comp": "club",
+        "name": "Jayden Bashford",
+        "cn": "XX",
+        "glider": "Kestrel 17m",
         "flarm": [
-            "YYYYYY"
+            "DD5218","FD45C3"
+        ]
+    }
+    {
+        "name": "Ryan Driscoll",
+        "cn": "MG",
+        "glider": "ASW 20C",
+        "flarm": [
+            "DF231D"
         ]
     }
 ]
