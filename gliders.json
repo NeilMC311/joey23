@@ -38,6 +38,7 @@
         ]
     },
     {
+        "correct": "Doubtful",
         "name": "Cameron Bartlett",
         "comp": "JoeyGlide23",
         "cn": "XQV",
@@ -45,4 +46,45 @@
         "flarm": [
             "A71B80"
         ]
-    }]
+    }
+    ,
+    {
+        "name": "Kieran Cassidy",
+        "comp": "JoeyGlide23",
+        "cn": "SH",
+        "glider": "Std. Libelle",
+        "flarm": [
+            "DD4F86"
+        ]
+    }
+    ,
+    {
+        "name": "Josh Geerlings",
+        "comp": "JoeyGlide23",
+        "cn": "SO",
+        "glider": "Discus a",
+        "flarm": [
+            "D00128"
+        ]
+    }
+    ,
+    {
+        "name": "Reuben Lane",
+        "comp": "JoeyGlide23",
+        "cn": "ME",
+        "glider": "DG 100",
+        "flarm": [
+            "DDB45C"
+        ]
+    }
+    ,
+    {
+        "name": "Noah Tanzen",
+        "comp": "JoeyGlide23",
+        "cn": "JY",
+        "glider": "Club Libelle",
+        "flarm": [
+            "XXXXXX"
+        ]
+    }
+]
