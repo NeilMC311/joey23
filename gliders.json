@@ -7,7 +7,8 @@
         "flarm": [
             "DD5218","FD45C3"
         ]
-    },
+    }
+    ,
     {
         "name": "Ryan Driscoll",
         "comp": "JoeyGlide23",
@@ -17,4 +18,13 @@
             "DF231D"
         ]
     }
-]
+    ,
+    {
+        "name": "Tom Jamieson",
+        "comp": "JoeyGlide23",
+        "cn": "GYM",
+        "glider": "ASW 20B",
+        "flarm": [
+            "DDE68D"
+        ]
+    }]
