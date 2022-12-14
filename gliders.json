@@ -38,13 +38,12 @@
         ]
     },
     {
-        "correct": "Doubtful",
         "name": "Cameron Bartlett",
         "comp": "JoeyGlide23",
         "cn": "XQV",
         "glider": "Std. Cirrus",
         "flarm": [
-            "A71B80"
+            "A87037","A71B80"
         ]
     }
     ,
